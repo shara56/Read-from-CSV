@@ -1,7 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
-
+To read and process the CSV file
 ## ALGORITHM:
 ### Step 1:Import pandas as pd
 ### Step 2:Open the file in read mode
@@ -24,4 +24,4 @@ print("columns",len(df.axes[1]))
 ![CSV](https://user-images.githubusercontent.com/113497104/195035408-dd31d74d-c6bf-480d-ba3b-6d57b27d172b.png)
 
 ## RESULT:
-Hence the program is executed 
+Hence the program is executed.
