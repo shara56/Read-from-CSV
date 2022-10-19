@@ -3,11 +3,16 @@
 ## AIM:
 To read and process the CSV file
 ## ALGORITHM:
-### Step 1:Import pandas as pd
-### Step 2:Open the file in read mode
-### Step 3:Print the first 9 and the tail
-### Step 4:Print the rows
-### Step 5:Print the columns
+### Step 1:
+Import pandas as pd
+### Step 2:
+Open the file in read mode
+### Step 3:
+Print the first 9 and the tail
+### Step 4:
+Print the rows
+### Step 5:
+Print the columns
 
 ## PROGRAM:
 ```python
